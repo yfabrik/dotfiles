@@ -1,0 +1,1 @@
+﻿schtasks /create /sc daily /tn "shutdown a 18h" /mo 1 /st 18:00 /tr "C:\Windows\System32\shutdown.exe /s"

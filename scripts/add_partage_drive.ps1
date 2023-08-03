@@ -1,0 +1,1 @@
+﻿New-PSDrive -Name "S" -Root "\\192.168.1.3\partage" -Persist -PSProvider "FileSystem" -Scope "global"

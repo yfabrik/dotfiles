@@ -1,0 +1,2 @@
+winget source remove msstore;
+winget install Inkscape.Inkscape -e;winget install VideoLAN.VLC -e;winget install Mozilla.Firefox -e;winget install Google.Chrome -e;winget install FreeCAD.FreeCAD -e;winget install Ultimaker.Cura -e;winget install SnapmakerDevTeam.SnapmakerLuban -e;winget install GIMP.GIMP -e;winget install BleachBit.BleachBit -e;winget install 7zip.7zip -e;winget install BlenderFoundation.Blender -e
