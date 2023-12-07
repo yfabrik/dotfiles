@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/fabrik/Applications/Rack2Free/Rack
+Name=VCVRack
+Icon=vcvrack.png
+Path=/home/fabrik/Applications/Rack2Free
+Categories=AudioVideo
+StartupWMClass=glfw-application
+Name[fr_FR]=VCVRack.desktop
